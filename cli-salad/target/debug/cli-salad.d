@@ -1,0 +1,1 @@
+/Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/cli-salad/target/debug/cli-salad: /Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/cli-salad/src/lib.rs /Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/cli-salad/src/main.rs

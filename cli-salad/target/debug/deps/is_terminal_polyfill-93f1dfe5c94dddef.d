@@ -1,0 +1,5 @@
+/Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/cli-salad/target/debug/deps/libis_terminal_polyfill-93f1dfe5c94dddef.rmeta: /Users/aalleva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/is_terminal_polyfill-1.70.1/src/lib.rs
+
+/Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/cli-salad/target/debug/deps/is_terminal_polyfill-93f1dfe5c94dddef.d: /Users/aalleva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/is_terminal_polyfill-1.70.1/src/lib.rs
+
+/Users/aalleva/.cargo/registry/src/index.crates.io-6f17d22bba15001f/is_terminal_polyfill-1.70.1/src/lib.rs:

@@ -1,1 +1,0 @@
-/Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/vector-fruit-salad/target/debug/vector-fruit-salad: /Users/aalleva/Documents/devel/rust/rust-data-engineering/rust-data-engineering/vector-fruit-salad/src/main.rs
